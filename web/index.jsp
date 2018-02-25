@@ -3,11 +3,15 @@
 <%@ page import="java.io.FileNotFoundException" %>
 <%@ page import="com.google.api.client.googleapis.auth.oauth2.GoogleCredential" %>
 <%@ page import="java.io.IOException" %>
+<%@ page import="com.assetx.libraries.utils.HttpHelperConnection" %>
+<%@ page import="org.json.JSONObject" %>
+<%@ page import="com.assetx.libraries.beacon.AccesToken" %>
 <html>
     <body>
 
         <%
 
+            /*
             String token = null;
 
             try{
@@ -24,18 +28,18 @@
                 ex.printStackTrace();
             } catch (IOException ex) {
                 ex.printStackTrace();
-            }
+            }*/
 
-            /*
+
             JSONObject jsonObject;
             String accestoken = AccesToken.GetAccesToken(new FileInputStream("key.json"));
             HttpHelperConnection httpHelperConnection;
             httpHelperConnection = new HttpHelperConnection();
             String string = httpHelperConnection.getResponse("https://www.google.com", "GET", "", 5000, 5000);
-            */
+
         %>
         <p>
-            <%= token %> <br> Hello World from Servlet!!
+            <%= accestoken %> <br> Hello World from Servlet!!
         </p>
     </body>
 </html>
