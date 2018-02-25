@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "beacon-geisoft-2018",
+  "private_key_id": "5735f3dcc6446537de232e625416e6b121dddcee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDS+1KZkUpXbclg\nysi9LcW9KmaUDsTElomhKUSyosxlFOMaeAojrL5voyk4akcqIcQRz+uEzbb7sCDE\nD4QMKXzKR/bOeV/ORrYQatLbffsH5QAqiaxoSbVGVk8uhZioIUAbZf4w4REecTjD\neNRYIhnVVMIp+HtPq3pE6O4r7t9LTeu/77sleW8Cmgn2pLyPU0swPObfrvS+YBVr\n3gcYwBQZEiZzGI/R6UsHh7GTcKXP1lSPBsh9X3relqMDJcxAApQ+rWHbk/X7Kwsz\nQcgJGR4dallT9fIpn8mXZ/XAPqObVoyLpp9mB2a0YdOIRpNpl5/t6oMB6fzP2Thy\nrOpoN0PbAgMBAAECggEAGhEE/oYt2iltRPEo5f6evKVdcRN2ChfTPz8bBrsIZ8Cx\n4lZMYmX4TVCqShcPXcw4Lj8zCQBliCkVk0Obe+kwSsmjW5UxWgnweozIKmghOLN5\nVsgVrfjVVbBaLhRBbRxWkEwEoMNd2xX//l6SVaU47dt/9bGGgqxb+eGRc4oaunHX\nkBtxl0TXhqDTB2PfBmsdpM/qiZYu+4gAnYfUk8J3CnGyFY2QvQO675Bl67q1hnip\n15yx1HlTMZlRgI9183c8xkzDyNvCUT0fR72ftp5Ol7R6yu0P3M/jKv7xOThMhOFL\nnjF/LZYvmJIv3ChgtUY2W3YtDIuAlNxBWLvJlZpe2QKBgQD3yuSzAx2YKOpqPfHL\nPOg/nvV2rXMn7aXE+vbLy5lTdvTiboM+9QwRmNZY8/V9uNOgFNgcEKRREoQ/jNdw\nTsFcObi1IB2gpTLztUhOu7O1eNWQShYnfz7+s6AnpYkZD9cFw9ZUaeGLbzKbit72\nUutC7yyi0+FDkIrScI5tEv15NQKBgQDZ+EylV12+JJMl7Wg4KmsrcHmSO0DPIeNh\nLlYLakTbmun/l3QkCyrwi/WPQKSQ/Pvt2k/DHsJyE0Ge36doNkSYHfKNwob1SNWU\n41cr1Xk5yWF0rCrC7GbM4qOIq0aLG705994IzwT4LPD7x+bf+AH2D8QmubLxk6IM\nsQy+GmN6zwKBgQC+QQMtyzOa07eAkUUoZgBwcM1JLM3hF1+TCZoaSZ3U7t4BSRbu\nbNmyXSYesFmKCTI7lCWGDuUK9muiG7KCoYVnGU6PizQUVyLy6fq1sPq/WCKpoai2\n9MVabHKIXloQaxAOdhoHQDCTjXJO6OZePLYz803TS1mHNeDQyOkiKFWEDQKBgQC3\nUu6j4WcmlPxt2c7d7k9UqbSWGN/ZVlc3VRFpaGehjBlirq8v4XSr/Ar8ARJoH16E\nHikXordH2opGZTUXoQzwI7/tGr8Hbcq0/sBCTbk3sPgWePc+GjYb/EIuoF8kgKAW\nMTK9leBIGwRTvz2fAagkm/4N1AF8zP5uTjq5aNhiYQKBgQCwsQmIy1n/Ze7lmnjI\nfRZdMoPrfPahL2K0p7iUQp8U6ceFv/vb57lxHkvgOZL8qq5FpA8KK/0WyaDaWIgQ\nj2QiBABh7cuYRNNVTQIP91qFw4zmb7Qw2AKD4M1OdRLen6wYoKnfX9mTljxc1JWC\nIKP4VZI7SP2FQ+ql0QsbJndn3w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "beaconkoss@beacon-geisoft-2018.iam.gserviceaccount.com",
+  "client_id": "104704030555119432619",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/beaconkoss%40beacon-geisoft-2018.iam.gserviceaccount.com"
+}
