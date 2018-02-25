@@ -15,7 +15,7 @@
 
         %>
         <p>
-            <%= accestoken %> <br> Hello World from Servlet!!
+            <%= accestoken %> <br> Hello World from Servlet2!!
         </p>
     </body>
 </html>
